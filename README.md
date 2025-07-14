@@ -44,7 +44,7 @@
 
 <!-- Card 2 -->
 <div style="background:#F0FAFF; border: 1px solid #92cde7; border-radius: 12px; padding: 16px; width: 80%; margin-bottom: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
-  <h3><a href="https://github.com/yourusername/emergency-dashboard">🚑 Emergency Dashboard</a></h3>
+  <h3><a href="https://github.com/mashaellab/-Emergency-Cases-in-RCJY/issues/1">🚑 Emergency Dashboard</a></h3>
   <p>Analyzing emergency hospital data using visual KPIs and custom slicers.</p>
   <sub>Power BI · sql · DAX</sub>
 </div>
@@ -64,7 +64,7 @@
 <!-- Card 6 -->
 <div style="background:#FFF8F0; border: 1px solid #f5c9a6; border-radius: 12px; padding: 16px; width: 80%; margin-bottom: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
 
-  <h3><a href="https://github.com/yourusername/pizza-sql-queries">🍕 SQL Practice – Pizza Sales Analysis</a></h3>
+  <h3><a href="https://github.com/mashaellab/sqlpizza/issues/1">🍕 SQL Practice – Pizza Sales Analysis</a></h3>
 
   <p>Shared a file of structured SQL queries designed to help practice and reinforce concepts after completing SQL courses. A practical and hands-on way to master data querying.</p>
 
