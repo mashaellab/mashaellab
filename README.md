@@ -82,13 +82,13 @@
 
   <ul>
     <li><a href="https://www.linkedin.com/posts/mashaellab_etl-and-elt-activity-7341797959166033921-fiQN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">🔁 ETL vs ELT – What’s the difference and when to use each</a></li>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">📌 Power BI: Bookmarks, Tooltip, Conditional Formatting</a></li>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">📊 Power BI DAX: RELATED vs RELATEDTABLE explained</a></li>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">🗃️ Power BI Storage Modes: Import, DirectQuery, Dual</a></li>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">📑 Power BI Data Models: Best practices and design logic</a></li>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">☁️ Google Cloud: BigQuery basics and use cases</a></li>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">🌐 GCP Resource Hierarchy: Org > Folders > Projects > Resources</a></li>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">🌊 OneLake in Microsoft Fabric / Power BI</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_mshpowerbi-aepaesaeqaeyaepaeuaepaesabraepaesaeeaewaetaev-activity-7270093167352328193-H5ZW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">📌 Power BI: Bookmarks, Tooltip, Conditional Formatting</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_related-and-relatedtable-activity-7330979441810067459-7Lcq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">📊 Power BI DAX: RELATED vs RELATEDTABLE explained</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_storage-modes-in-power-bi-activity-7338322606061748224-oKKn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">🗃️ Power BI Storage Modes: Import, DirectQuery, Dual</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_data-modeling-in-power-bi-activity-7322310155759476736-Nc1D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">📑 Power BI Data Models: Best practices and design logic</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_bigquery-activity-7228705534042877952-rn61?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">☁️ Google Cloud: BigQuery basics and use cases</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_google-cloud-resource-hierarchy-activity-7222148971681460224-O9pS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">🌐 GCP Resource Hierarchy: Org > Folders > Projects > Resources</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_onelake-power-bi-activity-7320456491906347009-RgWq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">🌊 OneLake in Microsoft Fabric / Power BI</a></li>
     <li><a href="https://www.linkedin.com/posts/mashaellab_data-pipeline-activity-7344329884980158465-kHbQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">⚙️ Data Pipelines: Concepts, tools, and structure</a></li>
   </ul>
 
