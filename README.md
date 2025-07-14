@@ -52,7 +52,7 @@
 <!-- Card 5 -->
 <div style="background:#FDF5E6; border: 1px solid #e6cfa8; border-radius: 12px; padding: 16px; width: 80%; margin-bottom: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
 
-  <h3><a href="https://github.com/yourusername/legal-cases-2023-powerbi">⚖️ Legal Case Analysis </a></h3>
+  <h3><a href="https://github.com/mashaellab/Legal-Case-Analysis-/tree/main">⚖️ Legal Case Analysis </a></h3>
   
   <p>Interactive dashboard analyzing legal case data from Saudi Arabia's open data platform using Power BI.</p>
 
