@@ -81,7 +81,7 @@
   <p>Sharing technical knowledge is part of my journey. I've explained a variety of real-world concepts in both English and Arabic to help others learn effectively. Here's a highlight of topics I've covered:</p>
 
   <ul>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">🔁 ETL vs ELT – What’s the difference and when to use each</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_etl-and-elt-activity-7341797959166033921-fiQN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">🔁 ETL vs ELT – What’s the difference and when to use each</a></li>
     <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">📌 Power BI: Bookmarks, Tooltip, Conditional Formatting</a></li>
     <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">📊 Power BI DAX: RELATED vs RELATEDTABLE explained</a></li>
     <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">🗃️ Power BI Storage Modes: Import, DirectQuery, Dual</a></li>
@@ -89,7 +89,7 @@
     <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">☁️ Google Cloud: BigQuery basics and use cases</a></li>
     <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">🌐 GCP Resource Hierarchy: Org > Folders > Projects > Resources</a></li>
     <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">🌊 OneLake in Microsoft Fabric / Power BI</a></li>
-    <li><a href="https://www.linkedin.com/in/mashaellab" target="_blank">⚙️ Data Pipelines: Concepts, tools, and structure</a></li>
+    <li><a href="https://www.linkedin.com/posts/mashaellab_data-pipeline-activity-7344329884980158465-kHbQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">⚙️ Data Pipelines: Concepts, tools, and structure</a></li>
   </ul>
 
 
