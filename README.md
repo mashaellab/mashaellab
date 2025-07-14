@@ -37,7 +37,7 @@
 
 <!-- Card 1 -->
 <div style="background:#FFF7F0; border: 1px solid #f5c6a5; border-radius: 12px; padding: 16px; width: 80%; margin-bottom: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
-  <h3><a href="https://github.com/yourusername/customer-feedback-etl-postgres-airflow">📬 Customer Feedback Pipeline</a></h3>
+  <h3><a href="https://github.com/mashaellab/data_pipeline_project">📬 Customer Feedback Pipeline</a></h3>
   <p>Simulates customer feedback ETL using Python, Airflow</p>
   <sub>Python · Airflow · PostgreSQL · Faker · Pandas · Docker </sub>
 </div>
