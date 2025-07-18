@@ -22,9 +22,9 @@
 ## 📑 Skills
 
 - 📊 **Power BI**: data modeling, KPIs, slicers, DAX, storytelling dashboards  
-- 🗃️ **Data Modeling**: star schema, normalization, entity relationships  
+- 📝 **Data Modeling**: star schema, normalization, entity relationships  
 - 🌀 **ETL Pipelines**: with Python, Airflow, PostgreSQL  
-- 🧙‍♀️ **SQL**: structured queries, joins, views, logic building  
+- 🗃️ **SQL**: structured queries, joins, views, logic building  
 - 🐍 **Python** for scripting and automation 
 - ☁️ **Cloud**: GCP , AWS  
 - 🎨 **Figma**: clean UI thinking and dashboard layout design
