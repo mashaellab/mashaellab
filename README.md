@@ -35,14 +35,15 @@
 
 <div align="center">
 
-<!-- Card 1 -->
+<!-- Card 1 
 <div style="background:#FFF7F0; border: 1px solid #f5c6a5; border-radius: 12px; padding: 16px; width: 80%; margin-bottom: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
   <h3><a href="https://github.com/mashaellab/data_pipeline_project">📬 Customer Feedback Pipeline</a></h3>
   <p>Simulates customer feedback ETL using Python, Airflow</p>
   <sub>Python · Airflow · PostgreSQL · Faker · Pandas · Docker </sub>
 </div>
+</div>
 
-<!-- Card 2 -->
+ Card 2 -->
 <div style="background:#F0FAFF; border: 1px solid #92cde7; border-radius: 12px; padding: 16px; width: 80%; margin-bottom: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
   <h3><a href="https://github.com/mashaellab/-Emergency-Cases-in-RCJY/issues/1">🚑 Emergency Dashboard</a></h3>
   <p>Analyzing emergency hospital data using visual KPIs and custom slicers.</p>
@@ -81,7 +82,7 @@
   <p>Sharing technical knowledge is part of my journey. I've explained a variety of real-world concepts in both English and Arabic to help others learn effectively. Here's a highlight of topics I've covered:</p>
 
   <ul>
-    <li><a href="https://www.linkedin.com/posts/mashaellab_etl-and-elt-activity-7341797959166033921-fiQN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">🔁 ETL vs ELT – What’s the difference and when to use each</a></li>
+  <!-- <li><a href="https://www.linkedin.com/posts/mashaellab_etl-and-elt-activity-7341797959166033921-fiQN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">🔁 ETL vs ELT – What’s the difference and when to use each</a></li> -->
     <li><a href="https://www.linkedin.com/posts/mashaellab_mshpowerbi-aepaesaeqaeyaepaeuaepaesabraepaesaeeaewaetaev-activity-7270093167352328193-H5ZW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">📌 Power BI: Bookmarks, Tooltip, Conditional Formatting</a></li>
     <li><a href="https://www.linkedin.com/posts/mashaellab_related-and-relatedtable-activity-7330979441810067459-7Lcq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">📊 Power BI DAX: RELATED vs RELATEDTABLE explained</a></li>
     <li><a href="https://www.linkedin.com/posts/mashaellab_storage-modes-in-power-bi-activity-7338322606061748224-oKKn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo" target="_blank">🗃️ Power BI Storage Modes: Import, DirectQuery, Dual</a></li>
