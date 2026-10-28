@@ -8,9 +8,9 @@
   </p>
 
   <p>
-    I'm a passionate data enthusiast with a deep focus on turning raw data into clear, compelling visuals using Power BI.  
-    I craft intuitive dashboards, model relational databases, and automate data pipelines that <em>actually make sense</em>.  
-    With every project, I aim to bring structure, color, and impact to complex information.
+    Data Modeler and BI Analyst focused on designing scalable analytical data models and transforming data into meaningful business insights.
+Skilled in Data Warehousing, Dimensional Modeling, SQL, and Power BI, with practical experience building end-to-end analytical solutions, including Star Schemas, Data Marts, reporting layers, and interactive dashboards.
+Passionate about creating well-structured data foundations that enable accurate reporting, performance tracking, and smarter business decisions. 
   </p>
 
 </div>
@@ -22,8 +22,7 @@
 ## 📑 Skills
 
 - 📊 **Power BI**: data modeling, KPIs, slicers, DAX, storytelling dashboards  
-- 📝 **Data Modeling**: star schema, normalization, entity relationships  
-- 🌀 **ETL Pipelines**: with Python, Airflow, PostgreSQL  
+- 📝 **Data Modeling**: star schema, normalization, entity relationships   
 - 🗃️ **SQL**: structured queries, joins, views, logic building  
 - 🐍 **Python** for scripting and automation 
 - ☁️ **Cloud**: GCP , AWS  
